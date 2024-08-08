@@ -69,9 +69,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <p><br>
     <a href="https://github.com/zSukita">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/lucassilvaba-exe">LinkedIn</a>
+    <a href="www.linkedin.com/in/lucassilvaba">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/lucassilva1001.exe/">
+    <a href="https://www.instagram.com/lucassilva1001">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
